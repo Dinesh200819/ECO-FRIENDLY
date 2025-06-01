@@ -19,10 +19,10 @@ Speed: 100%
 Durability: 100%
 
 Power: 100%
-1000
+
 
 Combat: 100%
 
 Personality: 100%
-101
+
 This is a eco-friendly store i created for fnb app acadamy for 2025
